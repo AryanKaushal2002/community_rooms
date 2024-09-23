@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-Community Rooms is a begiiners approach to create a platform for users to create, join, and interact in virtual study rooms.
+This small project is a beginners approach to create a platform for users to create, join, and interact in virtual study rooms.
 
 ## Setup Instructions
 
